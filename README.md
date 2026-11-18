@@ -42,12 +42,12 @@ O Painel consome a **BrasilAPI** (`https://brasilapi.com.br/api/feriados/v1/{ano
 
 ## Telas
 
-![Início](imagem.png)
+![Início](image.png)
 
-![Login](imagem-1.png)
+![Login](image-1.png)
 
-![Painel](imagem-2.png)
+![Painel](image-2.png)
 
-![Tarefas](imagem-3.png)
+![Tarefas](image-3.png)
 
-![Pomodoro](imagem-4.png)
+![Pomodoro](image-4.png)
