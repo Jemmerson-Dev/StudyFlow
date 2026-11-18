@@ -27,7 +27,7 @@ Painel, Tarefas e Pomodoro exigem login (login simulado: qualquer nome + senha c
 | PomodoroTimer | (joao vitor) |
 | SessionHistory | (joao vitor) |
 | ProtectedRoute | (jemmerson) |
-| HolidayList ( joao vitor) |
+| HolidayList |  ( joao vitor) |
 
 ## Hooks (9)
 `useState`, `useEffect`, `useContext` (AuthContext e TasksContext), `useRef` (TaskForm e PomodoroTimer), `useMemo` (Painel e Tarefas), `useReducer` (TasksContext), `useCallback` (Pomodoro) e os custom hooks `useLocalStorage` e `useFetch`.
